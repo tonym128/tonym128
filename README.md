@@ -7,4 +7,3 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I got a runner up in the Arduboy comp recently
 - https://www.hackster.io/tmamacos/arduboy-tv-on-esp32-with-ps3-remote-control-e4dd65
-- 
