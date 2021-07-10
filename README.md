@@ -6,6 +6,9 @@
 - 🌱 I’m currently learning electronics
 - 💬 Ask me about ESP32's / Automation
 - 📫 How to reach me: https://twitter.com/TonyM128
+- 📝 Read some things: https://ttech.mamacos.media
+- 📝 See some things: https://www.youtube.com/c/TonyMamacos
+- 📝 See some other things: https://www.youtube.com/c/TonyTechnology
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I got a runner up in the Hackster.io Arduboy competition
   - https://www.hackster.io/tmamacos/arduboy-tv-on-esp32-with-ps3-remote-control-e4dd65
