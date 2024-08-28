@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning electronics
 - 💬 Ask me about ESP32's / Automation
 - 📫 How to reach me: https://twitter.com/TonyM128
-- 📝 Read some things: https://ttech.mamacos.media
+- 📝 Read some things: https://tonym128.github.io
 - 📝 See some things: https://www.youtube.com/c/TonyMamacos
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I got a runner up in the Hackster.io Arduboy competition
